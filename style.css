@@ -1,0 +1,67 @@
+#topofpage {
+    padding: 10px;
+}
+
+#searchform_container {
+    text-align: center;
+    padding: 40px;
+}
+
+.search_text_input {
+    border-radius: 15px;
+}
+
+#search_text_field {
+    padding: 40px;
+    padding-top: 0px;
+}
+
+
+#search_button_field {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#adv_search_button_field {
+    padding: 0;
+    padding-top: 20px;
+    margin: 0;
+    text-align: right;
+}
+
+#searchform_container div.advinp {
+    text-align: left;
+    padding-top: 10px;
+}
+
+div.advinplabel {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 81px;
+}
+
+#googlelogo_field {
+    text-align: center;
+    margin-top: 40px;
+}
+
+body, input, button {
+    font-size: 15px;
+    font-family: arial,sans-serif;
+    color: lightgray;
+}
+
+body {
+    background-color:rgb(32, 33, 36);
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
